@@ -1,5 +1,5 @@
 # query-builder-mongodb-php
-Query Builder of MongoDB for Codeigniter
+Query Builder of MongoDB for Codeigniter and PHP Native
 
 
 For Docs see here https://mongodb.projectf.cf/
