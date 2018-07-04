@@ -10,7 +10,6 @@
 
 $config['mongodb']['active'] = 'default';
 
-$config['mongodb']['default']['no_auth'] 			=		FALSE;
 $config['mongodb']['default']['dns'] 				=		'mongodb://127.0.0.1:27017/';
 $config['mongodb']['default']['database']			=		'project_cbt';
 $config['mongodb']['default']['db_debug']			=		TRUE;
