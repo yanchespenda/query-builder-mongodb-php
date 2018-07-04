@@ -1175,7 +1175,8 @@ class Mongodb{
 	* @usage : $this->mongodb->join(array('foo' => 'ASC'))->get('foobar');
 	*/
 	public function join($collection, $operation){
-		
+		// STILL UNDER PROGRESS
+		// You can use aggregate $lookup for joining collation
 	} 
 
 	/**
