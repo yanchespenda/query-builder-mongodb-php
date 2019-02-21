@@ -2,7 +2,7 @@
 Query Builder of MongoDB for Codeigniter and PHP Native
 
 
-For Docs see here https://mongodb.projectf.cf/
+For Docs see here https://mongodb.arproject.web.id/
 
 Testing Development
 Windows 10 - PHP 7.2.6 - Codeigniter 3 - MongoDB 4.0 - PECL MongoDB 1.5.0
